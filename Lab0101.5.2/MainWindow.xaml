@@ -9,6 +9,14 @@
             <Setter Property="FontFamily" Value="Arial"/>
             <Setter Property="FontSize" Value="12"/>
             <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="White" Offset="0"/>
+                        <GradientStop Color="DimGray" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
             <Style.Triggers>
                 <DataTrigger Binding="{Binding SelectedItem.Content, ElementName=TextBoxFond}" Value="Times New Roman">
                     <Setter Property="FontFamily" Value="Times New Roman"/>

@@ -17,3 +17,4 @@ C:\Users\maksimbondarev\RiderProjects\Lab0101.5.2\Lab0101.5.2\obj\Debug\net9.0-w
 C:\Users\maksimbondarev\RiderProjects\Lab0101.5.2\Lab0101.5.2\obj\Debug\net9.0-windows\Lab0101.5.2.pdb
 C:\Users\maksimbondarev\RiderProjects\Lab0101.5.2\Lab0101.5.2\obj\Debug\net9.0-windows\Lab0101.5.2.genruntimeconfig.cache
 C:\Users\maksimbondarev\RiderProjects\Lab0101.5.2\Lab0101.5.2\obj\Debug\net9.0-windows\ref\Lab0101.5.2.dll
+C:\Users\maksimbondarev\RiderProjects\Lab0101.5.2\Lab0101.5.2\obj\Debug\net9.0-windows\Lab0101.5.2.sourcelink.json
